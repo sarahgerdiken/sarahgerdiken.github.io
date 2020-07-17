@@ -100,7 +100,7 @@ var APP_DATA = {
           "yaw": -0.9808788136977249,
           "pitch": 0.31858947199850185,
           "title": "watering hole<br>",
-          "text": "Die Wissenlandschaft durchzieht das gesamte Schulgebäude und ist in ihrer physischen Ausprägung als Seilnetzstruktur zu verstehen. Die Wasserstelle ist ein Ort an dem sich in größeren Gruppen über das neu Erlernte ausgetauscht werdne kann. <br>"
+          "text": "Die Wissenlandschaft durchzieht das gesamte Schulgebäude und ist in ihrer physischen Ausprägung als Seilnetzstruktur zu verstehen. Die Wasserstelle ist ein Ort an dem sich in größeren Gruppen über das neu Erlernte ausgetauscht werden kann. <br>"
         },
         {
           "yaw": -0.34707590589261983,
