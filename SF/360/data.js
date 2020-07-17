@@ -112,7 +112,7 @@ var APP_DATA = {
           "yaw": 0.5000863039131644,
           "pitch": 0.21681694842060928,
           "title": "Erklärungsdiagramm<br>",
-          "text": "Text"
+          "text": "<img src= images/tschumi.jpg>"
         }
       ]
     },
@@ -277,7 +277,7 @@ var APP_DATA = {
           "yaw": -0.44928926899259025,
           "pitch": -0.007818136285781208,
           "title": "Virtueller Layer<br>",
-          "text": "Text"
+          "text": "<img src= images/layering.jpg>"
         }
       ]
     },
