@@ -226,7 +226,7 @@ var APP_DATA = {
           "yaw": -0.018843300158629006,
           "pitch": 0.31076790137947796,
           "title": "Virtueller Layer<br>",
-          "text": "Text"
+          "text": "<video controls><source src= video/virtuell.mp4 type= video/mp4>Your browser does not support the video element.</video>"
         }
       ]
     },
